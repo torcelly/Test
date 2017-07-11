@@ -20,6 +20,9 @@ class ResultViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.showResults()
+        
+        // Esto será un nuevo print
+        print("Esta es la funcionalidad zoom")
     }
     
     
