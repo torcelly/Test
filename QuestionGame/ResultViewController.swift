@@ -23,6 +23,10 @@ class ResultViewController: UIViewController {
         
         // Esto será un nuevo print
         print("Esta es la funcionalidad zoom")
+        
+        // Esto será un nuevo scroll
+        print("Esta es la funcionalidad scroll")
+        print("Esta es la funcionalidad scroll 2")
     }
     
     
